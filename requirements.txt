@@ -1,2 +1,2 @@
-pandas
-nltk
+pandas==3.0.5
+nltk==3.10.3
