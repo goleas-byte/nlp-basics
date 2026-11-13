@@ -37,4 +37,6 @@ dist/
 build/
 
 # Logs
-*.log
+*.log# Large NLP training datasets - retained locally
+mobiletext/sent_train.txt
+mobiletext/sets/non-mobile_train.txt
